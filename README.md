@@ -26,5 +26,3 @@ Theming: Theme toggle for Light/Dark mode using MUI theming.
 
 
 Responsiveness: Fully responsive design ensures proper display and horizontal scrolling on smaller screens.
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
